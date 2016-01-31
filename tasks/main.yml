@@ -1,0 +1,5 @@
+---
+
+- name: install pkg
+  yum: name={{mrtg_install_name}} state={{mrtg_install_state}}
+

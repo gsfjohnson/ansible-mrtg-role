@@ -1,0 +1,5 @@
+---
+
+mrtg_install_name: mrtg
+mrtg_install_state: present
+
